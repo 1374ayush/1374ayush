@@ -3,11 +3,12 @@
 <img src="https://github.com/1374ayush/image/blob/main/github-header-image.png">
 <h1 align="center">Hi 👋, I'm Ayush Srivastav</h1>
 <h3 align="center">An Enthusiastic Full-Stack Web-Developer.</h3>
-<img align="right" width=400 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl3OXxRepHt74xoMai_HIlkro3H8ZbnMMyQQ&usqp=CAU">
+<img align="right" alt="Coder" width="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
-- 🔭 I’m currently working on [React Project](https://github.com/1374ayush/react-code)
 
-- 🌱 I’m currently learning **ReactJS, Dotnet, NodeJS**
+- 🔭 I’m currently working on Microservice architecture of ecommerce Apis [MicroVerseConnect](https://github.com/1374ayush/MicroservicesWithDotnet)
+
+- 🌱 I have experience in **Dotnet, Nodejs, ReactJs, AngularJs, Docker**
 
 - 👯 I’m looking to collaborate on **Full Stack Web Project**
 
