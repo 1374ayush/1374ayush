@@ -10,7 +10,7 @@
 
 - 👯 I will be open to collaborate on **Full Stack Web Project**
 
-- 📫 How to reach me **ayushsrivastava1374@gmail.com**
+- 📫 I can receive your notification here **ayushsrivastava1374@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
